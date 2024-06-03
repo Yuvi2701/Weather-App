@@ -1,5 +1,6 @@
 # Weather-App
-[Direct link to website]([https://pages.github.com/](https://yuvi2701.github.io/Weather-App/)).
+[Direct link to website](https://yuvi2701.github.io/Weather-App/).
+
 ## Overview
 Experience the convenience of staying informed about the weather with our state-of-the-art Weather App, designed using HTML, CSS, and JavaScript. Our app provides accurate and up-to-date weather information for your current location and allows you to search for weather conditions in different areas around the world.
 
