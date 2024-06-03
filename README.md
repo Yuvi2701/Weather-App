@@ -1,7 +1,9 @@
 # Weather-App
+[Direct link to website]([https://pages.github.com/](https://yuvi2701.github.io/Weather-App/)).
+## Overview
 Experience the convenience of staying informed about the weather with our state-of-the-art Weather App, designed using HTML, CSS, and JavaScript. Our app provides accurate and up-to-date weather information for your current location and allows you to search for weather conditions in different areas around the world.
 
-## Key Features:
+## Key Features
 * ####  _Current Location Weather_ :
     Instantly view the weather forecast for your current location using geolocation technology. Stay updated with real-time temperature, humidity, wind speed, and more.
 * ####  _Search Functionality_ :
@@ -18,3 +20,8 @@ Experience the convenience of staying informed about the weather with our state-
 Our Weather App combines functionality with aesthetics, ensuring that you have a reliable and enjoyable tool for all your weather needs. Whether you’re planning your next trip or just want to know if you need an umbrella today, our app has got you covered.
 
 Explore the world’s weather with ease and stay prepared for any conditions, anywhere, anytime.
+
+## Technology Used
+* #### HTML
+* #### CSS
+* #### Javascript
